@@ -90,3 +90,11 @@ Apresentar os dados
 - [x] criar, passar argumento
 - [x] executar
 - [x] arrow function / named function 
+
+## Estrutura de repetição 
+- [x] While
+
+## Anotações da aula
+
+- While --> Estrutura de repetição
+- return --> Dentro de qualquer função, ele para a execução da função
