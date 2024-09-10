@@ -7,8 +7,10 @@ Como um lego, você irá utilizar peças para criar algorítmos, ou seja, para r
 
 ## Peças de uma linguagem 
 
-- Comentários 
+- [x]Comentários 
 - Declaração de variáveis (const, let)
+    - const -> o valor da variável não pode ser alterado
+    - let -> o valor da variável pode ser alterado a qualquer momento
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, boolean)
 - Estrutura de dados (functions, object, array) 
@@ -20,3 +22,19 @@ Como um lego, você irá utilizar peças para criar algorítmos, ou seja, para r
 Coletar os dados
 Processar os dados (manipular, alterar...)
 Apresentar os dados
+
+## Escopo e variáveis:
+
+Variáveis globais e locais -> O que estiver dentro de {} são vairáveis locais e o que estiver fora das chaves é variável global
+
+Constantes 
+
+## Tipos de dados:
+
+Strings (textos): "" '' ``
+Number: 2 1.4
+Function
+
+## Operadores
+
+Operadores de atribuição de valor --> Representado pelo sinal de =
