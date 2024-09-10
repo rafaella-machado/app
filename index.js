@@ -1,16 +1,16 @@
-// arrays, objetos
-let meta = { // todo objeto tem uma propriedade e valor
+let meta = { 
+    
     value: 'Ler um livro por mês',
-    checked: false // boleano
-    log: (info) => {
-        console.log(info)
-    }
-
+    checked: false,  
 }
 
-console.log(meta.value)
+let metas = [
+   meta,
+   {
+    value: "caminhar 20 minutos todos os dias",
+    checked: false
+   }
+] 
 
-//function // arrow function atribuindo (sinal da flexa) a constante: criarMeta
-const criarMeta = () => {}
+console.log(metas[1].value)
 
-function criarMeta() {}
