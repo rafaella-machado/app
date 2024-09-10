@@ -94,6 +94,9 @@ Apresentar os dados
 ## Estrutura de repetição 
 - [x] While
 
+## Condicionais 
+- [x] switch
+
 ## Anotações da aula
 
 - While --> Estrutura de repetição
