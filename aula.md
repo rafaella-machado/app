@@ -97,6 +97,14 @@ Apresentar os dados
 ## Condicionais 
 - [x] switch
 
+## Modulos em Node.js
+- [x] importação de módulos (require, commonJs)
+- [x] biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises:
+- [x]Uso de funções assíncronas (async/await)
+
+
 ## Anotações da aula
 
 - While --> Estrutura de repetição
