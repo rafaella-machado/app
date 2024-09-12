@@ -71,6 +71,7 @@ Apresentar os dados
 
 - [x] Operadores de atribuição de valor --> Representado pelo sinal de =
 - [x] Operador de contatenação -> representa o sinal +
+- [x] Operadores de comparação: == (1 é igual a 2: 1==2), != (1 é diferente de 2: 1 != 2), < (menor), > (maior), <= (menor ou igual), >= (maior ou igual)
 
 ## Estruturar dados:
 
@@ -96,6 +97,7 @@ Apresentar os dados
 
 ## Condicionais 
 - [x] switch
+- [x] if/else
 
 ## Modulos em Node.js
 - [x] importação de módulos (require, commonJs)
