@@ -72,12 +72,14 @@ Apresentar os dados
 - [x] Operadores de atribuição de valor --> Representado pelo sinal de =
 - [x] Operador de contatenação -> representa o sinal +
 - [x] Operadores de comparação: == (1 é igual a 2: 1==2), != (1 é diferente de 2: 1 != 2), < (menor), > (maior), <= (menor ou igual), >= (maior ou igual)
+- [x] Spread operator: ...
 
 ## Estruturar dados:
 
 ## Arrays:
 
 - [x] Uma lista que contém qualquer tipo de dado
+- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ### Objetos:
 
